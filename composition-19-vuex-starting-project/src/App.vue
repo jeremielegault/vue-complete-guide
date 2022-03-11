@@ -1,6 +1,8 @@
 <template>
-  <the-counter></the-counter>
-  <control-center></control-center>
+  <div>
+    <the-counter></the-counter>
+    <control-center></control-center>
+  </div>
 </template>
 
 <script>
